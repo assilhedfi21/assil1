@@ -1,1 +1,2 @@
-version MAIN
+version de main
+version de ma-fonctionnalite
