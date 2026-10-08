@@ -1,2 +1,1 @@
-version de main
-version de ma-fonctionnalite
+ligne de base
